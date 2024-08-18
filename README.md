@@ -29,7 +29,7 @@ Some of the skills and technologies I'm proficient in include:
 - Web Development: [HTML,CSS,javascript].
  
 <h3 align="left">Languages and Tools:</h3>
- <p align="left">
+  <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -88,10 +88,22 @@ Some of the skills and technologies I'm proficient in include:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   </a>
   <a href="https://www.cisco.com/c/en/us/products/packet-tracer/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cisco_Logo
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cisco_Logo_2016.svg/1024px-Cisco_Logo_2016.svg.png" alt="packet-tracer" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit/scikit-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Google_Icons_Teachable_Machine_Logo.svg/1024px-Google_Icons_Teachable_Machine_Logo.svg.png" alt="teachable-machine" width="40" height="40"/>
+  </a>
+</p>
 
  
+
+
 
 ## Connect with Me
 
