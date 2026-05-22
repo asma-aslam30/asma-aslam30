@@ -14,10 +14,10 @@
 
 # 👩‍💻 About Me
 
-Hey there! 👋 I'm **Asma Aslam**, a passionate developer and data scientist with a keen interest in leveraging technology to solve real-world problems. I have a strong background in web development and data science.
+Hey there! 👋 I'm **Asma Aslam**, a passionate AI Engineer with a keen interest in leveraging technology to solve real-world problems. I have a strong background in AI and web development.
 
-- 🌱 I’m currently learning Machine Learning and JavaScript  
-- 💬 Ask me about frontend development, Python development and data analysis  
+- 🌱 I’m currently Agentic Ai and FTE's.  
+- 💬 Ask me about AI Engineer,Agentic AI Engineer, Python development and data scientist  
 - 📫 How to reach me: **asmaaslam486@gmail.com**
 
 ---
@@ -30,28 +30,75 @@ Hey there! 👋 I'm **Asma Aslam**, a passionate developer and data scientist wi
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Universe
 
-### 🧩 Languages & Tools
+---
+
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,nodejs,python,java,cpp,typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,typescript" />
 </p>
 
 ---
 
-### 📊 Data Science Tools
+### 📊 Data & Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matlab" />
+  Data Mining • Data Preprocessing • Data Cleaning • Data Augmentation • Data Segmentation • Data Annotation • Data Crawling
 </p>
 
 ---
 
-### 🛠️ Tools & IDEs
+### ⚛️ Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,jquery,tailwind,nodejs,tensorflow,pytorch,numpy,sklearn,matplotlib" />
+</p>
+
+<p align="center">
+  OpenAI Agent SDK • LangChain • Pandas • Seaborn • PyDantic • Hugging Face • Neural Networks • RAG • ML Algorithms • Deep Learning • Fine Tuning
 </p>
 
 ---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+</p>
+
+<p align="center">
+  SQL • Vector DB
+</p>
+
+---
+
+### 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vscode,jupyter,postman" />
+</p>
+
+<p align="center">
+  MongoDB Atlas • Neo4j • n8n • OpenClaw • Antigravity • Cursor • Google Colab
+</p>
+
+---
+
+### 🤝 Soft Skills
+<p align="center">
+  Problem Solving • Communication • Decision Making • Multi-Tasking • Teamwork • Leadership
+</p>
+
+---
+
+### 💬 CLI / AI Tools
+<p align="center">
+  Claude Code • Gemini • Qwen • DeepSeek • Bonsai • Kiro AI • Perplexity
+</p>
+
+---
+
+### 🤖 Interests
+<p align="center">
+  Artificial Intelligence • Robotics
+</p>
 
 # 🌐 CONNECT WITH ME (HOVER GLITCH STYLE)
 
